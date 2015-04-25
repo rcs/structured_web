@@ -1,0 +1,16 @@
+{
+  "og": {
+    "type": "books.genre"
+  },
+  "books": {
+    "authors": [
+      "http://one",
+      "http://two"
+    ],
+    "books": [
+      "http://three",
+      "http://four"
+    ],
+    "canonical_name": "Romance"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "og": {
+    "title": "Minimum required properties",
+    "url": "http://examples.opengraphprotocol.us/required.html",
+    "images": [{
+      "url": "http://examples.opengraphprotocol.us/media/images/50.png"
+    }]
+  }
+}

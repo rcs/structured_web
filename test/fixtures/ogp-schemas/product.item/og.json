@@ -1,0 +1,57 @@
+{
+  "fb": {
+    "app_id": "302184056577324"
+  },
+  "og": {
+    "type": "product",
+    "url": "Put your own URL to the object here",
+    "title": "Sample",
+    "images": [{
+      "url": "https://s-static.ak.fbcdn.net/images/devsite/attachment_blank.png"
+    }]
+  },
+  "product": {
+    "age_group": "kids",
+    "availability": "pending",
+    "brand": "Brand",
+    "category": "Category",
+    "color": "Color",
+    "condition": "new",
+
+    "expiration_time": "2020-01-01",
+    "group_ref": "group_ref_1",
+    "gtin": "gtin1",
+    "material": "Material",
+    "mfr_part_no": "1",
+    "pattern": "Plaid",
+    "prices": [
+      { "amount": 3.01, "currency": "USD" },
+      { "amount": 3.02, "currency": "CAD" }
+    ],
+    "retailer_category": "ret_cat",
+    "retailer_group_id": "ret_group",
+    "retailer_item_id": "ret_item_id",
+
+    "sale_price": {
+      "amount": 4.01,
+      "currency": "USD"
+    },
+
+    "sale_price_dates": {
+      "start": "2020-01-02",
+      "end": "2020-01-03"
+    },
+
+    "shipping_costs": [
+      { "amount": 5.01, "currency": "USD" },
+      { "amount": 5.02, "currency": "CAD" }
+    ],
+
+    "shipping_weight": {
+      "value": 6.01,
+      "units": "lb"
+    },
+    "size": "large",
+    "target_gender": "unisex"
+  }
+}

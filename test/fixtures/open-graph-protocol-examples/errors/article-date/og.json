@@ -1,0 +1,26 @@
+{
+  "og": {
+    "title": "5 Held in Plot to Bug Office",
+    "site_name": "Open Graph protocol examples",
+    "type": "article",
+    "locale": {
+      "locale": "en_US"
+    },
+    "url": "http://examples.opengraphprotocol.us/errors/article-date.html",
+    "images": [{
+      "url": "http://examples.opengraphprotocol.us/media/images/50.png",
+      "secure_url": "https://d72cgtgi6hvvl.cloudfront.net/media/images/50.png",
+      "width": 50,
+      "height": 50,
+      "type": "image/png"
+    }]
+  },
+  "article": {
+    "published_time": "June 18, 1972",
+    "authors": [
+      "http://examples.opengraphprotocol.us/profile.html"
+    ],
+    "section": "Front page",
+    "tags": ["Watergate"]
+  }
+}

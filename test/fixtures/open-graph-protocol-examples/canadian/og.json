@@ -1,0 +1,13 @@
+{
+  "og": {
+    "type": "website",
+    "locale": {
+      "locale": "en_CA"
+    },
+    "title": "Canadian, eh?",
+    "url": "http://examples.opengraphprotocol.us/canadian.html",
+    "images": [{
+      "url": "http://examples.opengraphprotocol.us/media/images/50.png"
+    }]
+  }
+}

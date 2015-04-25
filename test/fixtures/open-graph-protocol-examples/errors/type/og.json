@@ -1,0 +1,10 @@
+{
+  "og": {
+    "type": "fubar",
+    "title": "Undefined global type",
+    "url": "http://examples.opengraphprotocol.us/errors/type.html",
+    "images": [{
+      "url": "http://examples.opengraphprotocol.us/media/images/50.png"
+    }]
+  }
+}

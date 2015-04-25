@@ -1,0 +1,102 @@
+{
+ "fb": {
+   "app_id":  "302184056577324"
+ },
+ "og": {
+   "type" : "fitness.course" ,
+   "url" : "Put your own URL to the object here" ,
+   "title" : "Sample Course" ,
+   "images" : [{
+     "url": "https://s-static.ak.fbcdn.net/images/devsite/attachment_blank.png"
+   }]
+ },
+ "fitness": {
+   "calories": 100,
+   "custom_unit_energy": {
+     "value" : 4.01,
+     "units" : "Sample Total Custom-Unit Energy: Units" 
+   },
+   "distance": {
+     "value" : 5.01,
+     "units" : "Sample Distance: Units"
+   },
+   "duration": {
+     "value" : 6.01,
+     "units" : "Sample Duration: Units"
+   },
+   "live_text": "large and in charge",
+   "metrics": [
+     {
+       "calories": 123,
+       "custom_unit_energy": {
+         "value": 7.01,
+         "units": "Sample Metrics: Custom-Unit Energy: Units"
+       },
+       "distance": {
+         "value" : 8.01,
+         "units" : "Sample Metrics: Distance: Units"
+       },
+       "location": {
+         "latitude" : 1.0,
+         "longitude" : 1.1,
+         "altitude" : 1.2
+       },
+       "speed": {
+         "value" : 10.01,
+         "units" : "Sample Metrics: Speed: Units"
+       },
+       "steps": "10",
+       "pace": {
+         "value" : 9.01,
+         "units" : "Sample Metrics: Pace: Units"
+       },
+       "timestamp": "first timestamp"
+     },
+     {
+       "calories": 124,
+       "custom_unit_energy": {
+         "value": 11.01,
+         "units": "Sample 2 Metrics: Custom-Unit Energy: Units"
+       },
+       "distance": {
+         "value" : 12.01,
+         "units" : "Sample 2 Metrics: Distance: Units"
+       },
+       "location": {
+         "latitude" : 2.0,
+         "longitude": 2.1,
+         "altitude" : 2.2
+       },
+       "speed": {
+         "value" : 13.01,
+         "units" : "Sample 2 Metrics: Speed: Units"
+       },
+       "steps": "11",
+       "pace": {
+         "value" : 14.01,
+         "units" : "Sample 2 Metrics: Pace: Units"
+       },
+       "timestamp": "second timestamp"
+     }
+   ],
+   "pace": {
+     "value" : 15.01,
+     "units" : "Sample Pace: Units"
+   },
+   "speed": {
+     "value" : 16.01,
+     "units" : "Sample Speed: Units"
+   },
+   "splits": {
+     "unit": "mi",
+     "values": [{
+       "value" : "Sample Splits: Values: Value" ,
+       "units" : "Sample Splits: Values: Units"
+     },
+     {
+       "value" : "Sample Splits: Values: Value2" ,
+       "units" : "Sample Splits: Values: Units2"
+     }]
+   }
+ }
+}

@@ -1,0 +1,17 @@
+{
+  "fb": {
+    "app_id": "302184056577324"
+  },
+  "og": {
+    "type": "restaurant.menu",
+    "url": "Put your own URL to the object here",
+    "title": "Sample",
+    "images": [{
+      "url": "https://s-static.ak.fbcdn.net/images/devsite/attachment_blank.png"
+    }]
+  },
+  "restaurant": {
+    "restaurant": "restaurant1",
+    "sections": ["section1", "section2"]
+  }
+}

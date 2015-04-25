@@ -1,0 +1,19 @@
+{
+  "og": {
+    "title": "Structured image too small",
+    "site_name": "Open Graph protocol examples",
+    "description": "Will an indexer accept a 1x1 transparent PNG?",
+    "type": "website",
+    "locale": {
+      "locale": "en_US"
+    },
+    "url": "http://examples.opengraphprotocol.us/image-toosmall.html",
+    "images": [{
+      "url": "http://examples.opengraphprotocol.us/media/images/1.png",
+      "secure_url": "https://d72cgtgi6hvvl.cloudfront.net/media/images/1.png",
+      "width": 1,
+      "height": 1,
+      "type": "image/png"
+    }]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "fb": {
+    "app_id": "302184056577324"
+  },
+  "og": {
+    "type": "video.other",
+    "url": "Put your own URL to the object here",
+    "title": "Sample",
+    "images": [{
+      "url": "https://s-static.ak.fbcdn.net/images/devsite/attachment_blank.png"
+    }]
+  },
+  "video": {
+    "actors": [
+      {"id": "profile1", "role": "man"},
+      {"id": "profile2", "role": "woman"}
+    ],
+    "directors": ["dir1","dir2"],
+    "duration": 300,
+    "release_date": "2011-01-01",
+    "tags": ["tag1","tag2"],
+    "writers": ["writer1","writer2"]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "fb": {
+    "app_id": "302184056577324"
+  },
+  "og": {
+    "type": "product",
+    "url": "Put your own URL to the object here",
+    "title": "Sample",
+    "images": [{
+      "url": "https://s-static.ak.fbcdn.net/images/devsite/attachment_blank.png"
+    }]
+  },
+  "product": {
+    "age_group": "kids",
+    "availability": "pending",
+    "brand": "Brand",
+    "category": "Category",
+    "color": "Color",
+    "condition": "new",
+    "ean": "EAN?",
+    "expiration_time": "2020-01-01",
+    "is_product_shareable": true,
+    "isbn": "ISBN?",
+    "material": "Material",
+    "mfr_part_no": "1",
+    "original_prices": [
+      { "amount": 1.01, "currency": "USD" },
+      { "amount": 1.02, "currency": "CAD" }
+    ],
+    "pattern": "Plaid",
+    "plural_title": "Things",
+    "pretax_prices": [
+      { "amount": 2.01, "currency": "USD" },
+      { "amount": 2.02, "currency": "CAD" }
+    ],
+    "prices": [
+      { "amount": 3.01, "currency": "USD" },
+      { "amount": 3.02, "currency": "CAD" }
+    ],
+
+    "product_link": "url1",
+    "purchase_limit": 3,
+    "retailer": "retailer1",
+    "retailer_category": "ret_cat",
+    "retailer_part_no": "ret_part_no",
+    "retailer_title": "ret_title",
+
+    "sale_price": {
+      "amount": 4.01,
+      "currency": "USD"
+    },
+    "sale_price_dates": {
+      "start": "2020-01-02",
+      "end": "2020-01-03"
+    },
+
+    "shipping_costs": [
+      { "amount": 5.01, "currency": "USD" },
+      { "amount": 5.02, "currency": "CAD" }
+    ],
+
+    "shipping_weight": {
+      "value": 6.01,
+      "units": "lb"
+    },
+    "size": "large",
+    "target_gender": "unisex",
+    "upc": "UPC",
+    "weight": {
+      "value": 7.01,
+      "units": "kg"
+    }
+  }
+}

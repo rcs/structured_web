@@ -1,0 +1,88 @@
+{
+  "og": {
+
+    "audio": [
+      {
+        "url": "http://examples.opengraphprotocol.us/media/audio/1khz.mp3",
+        "secure_url": "https://d72cgtgi6hvvl.cloudfront.net/media/audio/1khz.mp3",
+        "type": "audio/mpeg"
+      },
+      {
+        "url": "http://examples.opengraphprotocol.us/media/audio/250hz.mp3",
+        "secure_url": "https://d72cgtgi6hvvl.cloudfront.net/media/audio/250hz.mp3",
+        "type": "audio/mpeg"
+      }
+    ],
+
+    "description": "How many tags can we put on this page?",
+    "determiner": "auto",
+
+    "images": [
+      {
+        "url": "http://examples.opengraphprotocol.us/media/images/75.png",
+        "secure_url": "https://d72cgtgi6hvvl.cloudfront.net/media/images/75.png",
+        "width": 75,
+        "height": 75,
+        "type": "image/png",
+        "user_generated": true
+      },
+      {
+        "url": "http://examples.opengraphprotocol.us/media/images/50.png",
+        "secure_url": "https://d72cgtgi6hvvl.cloudfront.net/media/images/50.png",
+        "width": 50,
+        "height": 50,
+        "type": "image/png",
+        "user_generated": false
+      }
+    ],
+    "locale": {
+      "locale": "en_CA",
+      "alternates": [
+        "ca_es",
+        "cs_cz"
+      ]
+    },
+    "restrictions": {
+      "country": {
+        "allowed": [ "US", "CA" ],
+        "disallowed": ["GB", "FR"]
+      },
+      "age": "18+",
+      "content": [ "alcohol", "guns" ]
+    },
+    "rich_attachment": true,
+    "see_also": [
+      "http://one",
+      "http://two",
+      "http://three"
+    ],
+    "site_name": "Fancy Site",
+    "title": "All the tags all the time",
+    "type": "article",
+    "updated_time": "1972-06-18",
+    "url": "http://url",
+    "videos": [
+      {
+        "url": "http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf?src=http%3A%2F%2Fexamples.opengraphprotocol.us%2Fmedia%2Fvideo%2Ftrain.mp4",
+        "secure_url": "https://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf?src=https%3A%2F%2Fd72cgtgi6hvvl.cloudfront.net%2Fmedia%2Fvideo%2Ftrain.mp4",
+        "type": "application/x-shockwave-flash",
+        "width": 472,
+        "height": 296
+      },
+      {
+        "url": "http://examples.opengraphprotocol.us/media/video/train.mp4",
+        "secure_url": "https://d72cgtgi6hvvl.cloudfront.net/media/video/train.mp4",
+        "type": "video/mp4",
+        "width": 472,
+        "height": 296
+      },
+      {
+        "url": "http://examples.opengraphprotocol.us/media/video/train.webm",
+        "secure_url": "https://d72cgtgi6hvvl.cloudfront.net/media/video/train.webm",
+        "type": "video/webm",
+        "width": 480,
+        "height": 320
+      }
+    ]
+  }
+}

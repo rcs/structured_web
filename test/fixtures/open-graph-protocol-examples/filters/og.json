@@ -1,0 +1,9 @@
+{
+  "og": {
+    "title": "Cross site scripting image attempt",
+    "url": "http://examples.opengraphprotocol.us/filters/xss-image.html",
+    "images": [{
+      "url": "javascript:alert('XSS')"
+    }]
+  }
+}

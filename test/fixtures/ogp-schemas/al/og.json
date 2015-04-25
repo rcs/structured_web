@@ -1,0 +1,49 @@
+{
+  "al": {
+    "ios": {
+      "url": "applinks://ios-docs",
+      "app_store_id": 54321,
+      "app_name": "App Links ios"
+    },
+    "iphone": {
+      "url": "applinks://iphone-docs",
+      "app_store_id": 12345,
+      "app_name": "App Links iphone"
+    },
+    "ipad": {
+      "url": "applinks://ipad-docs",
+      "app_store_id": 67890,
+      "app_name": "App Links ipad"
+    },
+    "android": {
+      "url": "applinks://android-docs",
+      "package": "org.applinks",
+      "class": "ApplinksClass",
+      "app_name": "App Links android"
+    },
+    "windows_phone": {
+      "url": "applinks://windows_phone-docs",
+      "app_store_id": "a14e93aa-27c7-df11-a844-00237de2db9f",
+      "app_name": "App Links windows_phone"
+    },
+    "windows": {
+      "url": "applinks://windows-docs",
+      "app_store_id": "foo-bar-baz",
+      "app_name": "App Links windows",
+      "package_family_name": "Windows Package Family"
+    },
+    "windows_universal": {
+      "url": "applinks://windows_universal-docs",
+      "app_store_id": "qux-quux-quuux",
+      "app_name": "App Links windows_universal",
+      "package_family_name": "Universal Package Family"
+    },
+    "web": {
+      "url": "http://applinks.org/documentation",
+      "should_fallback": false
+    }
+  }
+}
+
+
+

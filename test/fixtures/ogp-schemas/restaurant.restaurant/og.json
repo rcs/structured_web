@@ -1,0 +1,29 @@
+{
+  "fb": {
+    "app_id": "302184056577324"
+  },
+  "og": {
+    "type": "restaurant.restaurant",
+    "url": "Put your own URL to the object here",
+    "title": "Sample",
+    "images": [{
+      "url": "https://s-static.ak.fbcdn.net/images/devsite/attachment_blank.png"
+    }]
+  },
+  "restaurant": {
+    "categories": ["french","american"],
+    "contact_info": {
+      "street_address": "1 first street",
+      "locality": "new york",
+      "region": "new york",
+      "country_name": "US",
+      "postal_code": "10001",
+      "email": "email@example.com",
+      "phone_number": "123-123-1234",
+      "fax_number": "123-123-1235",
+      "website": "www.example.com"
+    },
+    "menus": ["ref1","ref2"],
+    "price_rating": 3
+  }
+}

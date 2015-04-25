@@ -1,0 +1,17 @@
+{
+  "og": {
+    "type": "books.author"
+  },
+  "books": {
+    "books": [
+      "http://one",
+      "http://two"
+    ],
+    "gender": "Male",
+    "genres": [
+      "http://three",
+      "http://four"
+    ],
+    "official_site": "http://five"
+  }
+}

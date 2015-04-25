@@ -1,0 +1,20 @@
+{
+  "og": {
+    "description": "Example HTML documents marked up with Open Graph protocol.",
+    "type": "website",
+    "locale": {
+      "locale": "en_US"
+    },
+    "title": "Open Graph protocol examples",
+    "site_name": "Open Graph protocol examples",
+    "determiner": "the",
+    "url": "http://examples.opengraphprotocol.us/",
+    "images": [{
+      "url": "http://examples.opengraphprotocol.us/media/images/logo.png",
+      "secure_url": "https://d72cgtgi6hvvl.cloudfront.net/media/images/logo.png",
+      "type": "image/png",
+      "width": 300,
+      "height": 300
+    }]
+  }
+}

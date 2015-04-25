@@ -1,0 +1,16 @@
+{
+  "og": {
+    "type": "profile",
+    "title": "Undefined gender type",
+    "url": "http://examples.opengraphprotocol.us/errors/gender.html",
+    "images": [{
+      "url": "http://examples.opengraphprotocol.us/media/images/50.png"
+    }]
+  },
+  "profile": {
+    "first_name": "Coilette",
+    "last_name": "Rodríguez",
+    "gender": "fembot",
+    "username": "bender"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "fb": {
+    "app_id": "115190258555800"
+  },
+  "og": {
+    "title": "Open Graph protocol",
+    "type": "website",
+    "url": "http://ogp.me/",
+    "images": [
+      {
+        "url": "http://ogp.me/logo.png",
+        "type": "image/png",
+        "width": 300,
+        "height": 300
+      }
+    ],
+    "description": "The Open Graph protocol enables any web page to become a rich object in a social graph." 
+  }
+}

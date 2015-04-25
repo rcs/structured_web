@@ -1,0 +1,25 @@
+{
+  "og": {
+    "title": "Steve Jobs",
+    "site_name": "Open Graph protocol examples",
+    "type": "book",
+    "locale": {
+      "locale": "en_US"
+    },
+    "url": "http://examples.opengraphprotocol.us/book.html",
+    "images": [{
+      "url": "http://examples.opengraphprotocol.us/media/images/50.png",
+      "secure_url": "https://d72cgtgi6hvvl.cloudfront.net/media/images/50.png",
+      "width": 50,
+      "height": 50,
+      "type": "image/png"
+    }]
+  },
+  "book": {
+    "author": "http://examples.opengraphprotocol.us/profile.html",
+    "isbn": "978-1451648539",
+    "release_date": "2011-10-24",
+
+    "tags": ["Steve Jobs", "Apple", "Pixar"]
+  }
+}

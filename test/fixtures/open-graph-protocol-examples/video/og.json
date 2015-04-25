@@ -1,0 +1,25 @@
+{
+  "og": {
+    "title": "Structured video property",
+    "site_name": "Open Graph protocol examples",
+    "type": "website",
+    "locale": {
+      "locale": "en_US"
+    },
+    "url": "http://examples.opengraphprotocol.us/video.html",
+    "images": [{
+      "url": "http://examples.opengraphprotocol.us/media/images/50.png",
+      "secure_url": "https://d72cgtgi6hvvl.cloudfront.net/media/images/50.png",
+      "width": 50,
+      "height": 50,
+      "type": "image/png"
+    }],
+    "videos": [{
+      "url": "http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf?src=http%3A%2F%2Fexamples.opengraphprotocol.us%2Fmedia%2Fvideo%2Ftrain.mp4",
+      "secure_url": "https://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf?src=https%3A%2F%2Fd72cgtgi6hvvl.cloudfront.net%2Fmedia%2Fvideo%2Ftrain.mp4",
+      "type": "application/x-shockwave-flash",
+      "width": 472,
+      "height": 296
+    }]
+  }
+}

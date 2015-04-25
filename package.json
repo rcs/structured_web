@@ -1,0 +1,20 @@
+{
+  "name": "structured_web",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"./node_modules/.bin/istanbul\" --include-all-sources cover \"./node_modules/mocha/bin/_mocha\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "htmlparser2": "^3.8.2",
+    "superagent": "^1.1.0"
+  },
+  "devDependencies": {
+    "chai": "^2.1.1",
+    "istanbul": "^0.3.7",
+    "mocha": "^2.2.1"
+  }
+}

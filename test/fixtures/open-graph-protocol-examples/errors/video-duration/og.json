@@ -1,0 +1,47 @@
+{
+  "og": {
+    "title": "Arrival of a Train at La Ciotat",
+    "site_name": "Open Graph protocol examples",
+    "type": "video.movie",
+    "locale": {
+      "locale": "en_US"
+    },
+    "url": "http://examples.opengraphprotocol.us/errors/video-duration.html",
+    "images": [{
+      "url": "http://examples.opengraphprotocol.us/media/images/50.png",
+      "secure_url": "https://d72cgtgi6hvvl.cloudfront.net/media/images/50.png",
+      "width": 50,
+      "height": 50,
+      "type": "image/png"
+    }],
+    "videos": [
+      {
+        "url": "http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf?src=http%3A%2F%2Fexamples.opengraphprotocol.us%2Fmedia%2Fvideo%2Ftrain.mp4",
+        "secure_url": "https://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf?src=https%3A%2F%2Fd72cgtgi6hvvl.cloudfront.net%2Fmedia%2Fvideo%2Ftrain.mp4",
+        "type": "application/x-shockwave-flash",
+        "width": 472,
+        "height": 296
+      },
+      {
+        "url": "http://examples.opengraphprotocol.us/media/video/train.mp4",
+        "secure_url": "https://d72cgtgi6hvvl.cloudfront.net/media/video/train.mp4",
+        "type": "video/mp4",
+        "width": 472,
+        "height": 296
+      },
+      {
+        "url": "http://examples.opengraphprotocol.us/media/video/train.webm",
+        "secure_url": "https://d72cgtgi6hvvl.cloudfront.net/media/video/train.webm",
+        "type": "video/webm",
+        "width": 480,
+        "height": 320
+      }
+    ]
+  },
+  "video": {
+    "release_date": "1895-12-28",
+    "directors": ["http://examples.opengraphprotocol.us/profile.html"],
+    "duration": 49,
+    "tags": ["La Ciotat", "train"]
+  }
+}

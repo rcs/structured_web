@@ -1,0 +1,18 @@
+{
+  "og": {
+    "type": "website",
+    "title": "Open Graph protocol 1.0 location data",
+    "url": "http://examples.opengraphprotocol.us/errors/geo.html",
+    "images": [{
+      "url": "http://examples.opengraphprotocol.us/media/images/50.png"
+    }],
+    "street-address": "1 Hacker Way",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal-code": "94025",
+    "country-name": "USA",
+    "latitude": "37.48299",
+    "longitude": "-122.15009"
+  }
+}
+

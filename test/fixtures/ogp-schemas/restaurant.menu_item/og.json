@@ -1,0 +1,33 @@
+{
+  "fb": {
+    "app_id": "302184056577324"
+  },
+  "og": {
+    "type": "restaurant.menu_item",
+    "url": "Put your own URL to the object here",
+    "title": "Sample",
+    "images": [{
+      "url": "https://s-static.ak.fbcdn.net/images/devsite/attachment_blank.png"
+    }]
+  },
+  "restaurant": {
+    "sections": ["section1","section2"],
+    "variations": [
+      {
+        "name": "name1",
+        "prices": [
+          { "amount": 1.01, "currency": "USD" },
+          { "amount": 1.02, "currency": "CAD" }
+        ]
+      },
+      {
+        "name": "name2",
+        "prices": [
+          { "amount": 2.01, "currency": "USD" },
+          { "amount": 2.02, "currency": "CAD" }
+        ]
+      }
+    ]
+  }
+}
+

@@ -1,0 +1,20 @@
+{
+  "og": {
+    "type": "article"
+  },
+  "article": {
+    "authors": [
+      "1",
+      "http://url"
+    ],
+    "expiration_time": "1973-06-17T20:23:45-05:00",
+    "modified_time": "1972-07-17T20:23:45-05:00",
+    "published_time": "1972-06-17T20:23:45-05:00",
+    "publisher": "Hearst",
+    "tags": [
+      "one",
+      "two",
+      "three"
+    ]
+  }
+}

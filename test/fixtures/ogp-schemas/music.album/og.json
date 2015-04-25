@@ -1,0 +1,30 @@
+{
+  "fb": {
+    "app_id": "302184056577324"
+  },
+  "og": {
+    "type": "music.album",
+    "url": "Put your own URL to the object here",
+    "title": "Sample Album",
+    "images": [{
+      "url": "https://s-static.ak.fbcdn.net/images/devsite/attachment_blank.png"
+    }]
+  },
+  "music": {
+    "musicians": [ "one", "two" ],
+    "release_type": "original_release",
+    "release_date": "2011-01-01",
+    "songs": [
+      {
+        "url": "Sample Song: URL1",
+        "disc": 2,
+        "track": 3
+      },
+      {
+        "url": "Sample Song: URL2",
+        "disc": 3,
+        "track": 4
+      }
+    ]
+  }
+}

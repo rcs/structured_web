@@ -1,0 +1,27 @@
+{
+  "fb": {
+    "app_id": "302184056577324"
+  },
+  "og": {
+    "type": "music.playlist",
+    "url": "Put your own URL to the object here",
+    "title": "Sample",
+    "images": [{
+      "url": "https://s-static.ak.fbcdn.net/images/devsite/attachment_blank.png"
+    }]
+  },
+  "music": {
+    "creator": "Creatrix",
+    "songs": [
+      {
+        "url": "URL 1",
+        "track": 1
+      },
+      {
+        "url": "URL 2",
+        "track": 2
+      }
+    ],
+    "song_count": 2
+  }
+}

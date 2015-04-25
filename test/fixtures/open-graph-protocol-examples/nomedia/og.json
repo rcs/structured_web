@@ -1,0 +1,16 @@
+{
+  "og": {
+    "title": "No media properties",
+    "site_name": "Open Graph protocol examples",
+    "description": "Required and optional properties without associated media.",
+    "type": "website",
+    "locale": {
+      "locale": "en_US"
+    },
+    "determiner": "the",
+    "url": "http://examples.opengraphprotocol.us/nomedia.html",
+    "images": [{
+      "url": "http://examples.opengraphprotocol.us/media/images/50.png"
+    }]
+  }
+}

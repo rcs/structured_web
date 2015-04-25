@@ -1,0 +1,36 @@
+{
+  "fb": {
+    "app_id": "302184056577324"
+  },
+  "og": {
+    "type": "music.song",
+    "url": "Put your own URL to the object here",
+    "title": "Sample",
+    "images": [{
+      "url": "https://s-static.ak.fbcdn.net/images/devsite/attachment_blank.png"
+    }]
+  },
+  "music": {
+    "albums": [
+      {
+        "url": "album1",
+        "disc": 1,
+        "track": 2
+      },
+      {
+        "url": "album2",
+        "disc": 3,
+        "track": 4
+      }
+    ],
+    "duration": 5,
+    "isrc": "productId?",
+    "musicians": ["one","two"],
+    "preview_urls": [
+      { "url": "preview1", "secure_url": "sec_preview1", "type": "audio/ogg" },
+      { "url": "preview2", "secure_url": "sec_preview2", "type": "audio/mp3" }
+    ],
+    "release_date": "2012-01-02",
+    "release_type": "re_release"
+  }
+}

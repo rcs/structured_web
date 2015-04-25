@@ -1,0 +1,20 @@
+{
+  "fb": {
+    "app_id": "302184056577324"
+  },
+  "og": {
+    "type": "place",
+    "url": "Put your own URL to the object here",
+    "title": "Sample",
+    "images": [{
+      "url": "https://s-static.ak.fbcdn.net/images/devsite/attachment_blank.png"
+    }]
+  },
+  "place": {
+    "location": {
+      "latitude": 1.01,
+      "longitude": 1.02,
+      "altitude": 1.03
+    }
+  }
+}

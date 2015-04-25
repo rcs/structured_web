@@ -1,0 +1,18 @@
+{
+  "og": {
+    "title": "Full structured image property",
+    "site_name": "Open Graph protocol examples",
+    "type": "website",
+    "locale": {
+      "locale": "en_US"
+    },
+    "url": "http://examples.opengraphprotocol.us/image-url.html",
+    "images": [{
+      "url": "http://examples.opengraphprotocol.us/media/images/50.png",
+      "secure_url": "https://d72cgtgi6hvvl.cloudfront.net/media/images/50.png",
+      "width": 50,
+      "height": 50,
+      "type": "image/png"
+    }]
+  }
+}

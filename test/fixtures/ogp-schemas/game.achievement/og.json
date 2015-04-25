@@ -1,0 +1,17 @@
+{
+  "fb": {
+    "app_id": "302184056577324"
+  },
+  "og": {
+    "type": "game.achievement",
+    "url": "Put your own URL to the object here",
+    "title": "Sample Game Achievement",
+    "images": [{
+      "url": "https://s-static.ak.fbcdn.net/images/devsite/attachment_blank.png"
+    }]
+  },
+  "game": {
+    "points": 100,
+    "secret": false
+  }
+}
